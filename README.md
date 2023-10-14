@@ -8,7 +8,7 @@
 🚀 Currently diving into the world of Generative AI and mastering the art of Python.<br><br>💬 Ask me about Coding, the exciting life of a Computer Science Engineering (CSE) student, and how to navigate the tech world.<br><br>📫 Reach out to me at purvasharma3008@gmail.com for collaborations and interesting conversations!<br><br>🌱 Learning, growing, and building the future, one line of code at a time. 🚀
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/purvasharma30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purva-sharma-3738b2216/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/purvasharma30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-sharma-3738b2216/) 
 
 
 # 💻 Tech Stack:
