@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purva Sharma</h1>
 <h3 align="center">Aspiring Software Developer passionate about innovation and problem-solving.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b2/8f/70/b28f702c0f5ca6c9cc132a6a50ffc1ee.gif">
+<img align="right" alt="coding" width="400" src="https://www.liveagood.life/community/wp-content/uploads/sites/2/2021/12/59311-girl-working-on-laptop-lottie-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvasharma30&label=Profile%20views&color=0e75b6&style=flat" alt="purvasharma30" /> </p>
 
